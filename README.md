@@ -1,29 +1,15 @@
-# Franklyn Solutions – Revision 2
+# Franklyn Solutions Website Bundle
 
-This is a static website bundle prepared for GitHub + Cloudflare Pages deployment.
+Deploy this site by uploading the contents to a GitHub repository and connecting that repository to Cloudflare Pages.
 
 ## Files
 - `index.html`
 - `styles.css`
 - `script.js`
-- `assets/` for images and logo files
-
-## Deploy
-1. Create or open your GitHub repo.
-2. Upload the contents of this folder.
-3. Push to your main branch.
-4. In Cloudflare Pages, connect the repo.
-5. Framework preset: **None**.
-6. Build command: leave blank.
-7. Output directory: `/`.
+- `assets/`
 
 ## Notes
-- This revision uses a mix of branded graphics and real project photos.
-- It is easy to keep editing directly with ChatGPT and repackaging for future revisions.
-
-
-Revision 4 notes:
-- tighter sticky header sizing
-- added Digital Systems section
-- added Website/DNS/Cloudflare, Registration, and Automation positioning
-- updated project structure to better reflect broader Franklyn Solutions offerings
+- One-page layout with smooth anchor navigation
+- Dark/light favicon support included
+- Background image and hero visuals already wired in
+- Easy to swap images in `assets/` and update section copy directly in `index.html`
